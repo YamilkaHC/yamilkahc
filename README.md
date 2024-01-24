@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yamilka-henriquez-c-b4045314b" target="blank"><img align="start" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yamilka-henriquez-c-b4045314b/" height="22" width="40" />
+<a href="https://www.linkedin.com/in/yamilka-henriquez-cosme-b4045314b/" target="blank"><img align="start" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yamilka-henriquez-cosme-b4045314b/" height="22" width="40" />
 Yamilka Henriquez Cosme
 </a>
 </p>
