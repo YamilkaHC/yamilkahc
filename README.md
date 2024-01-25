@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a passionate web developer from Dominican Republic</h3>
 
-- 🔭 I’m currently working on [Perfecto App]
+<!-- - 🔭 I’m currently working on [Perfecto App] -->
 <!-- (https://github.com/YamilkaHC/Redux-course) -->
 
 - 👨‍💻 All of my projects are available at [https://www.yamilkahc.com](https://www.yamilkahc.com)
